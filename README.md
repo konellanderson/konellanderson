@@ -1,4 +1,4 @@
-### Olá! Eu sou o Anderosn Konell
+### Olá! Eu sou o Anderson Konell
 
 - 🌱 Estudando desenvolvimento de sistemas
 - 📫 konellanderson@gmail.com
